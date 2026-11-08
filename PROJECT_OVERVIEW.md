@@ -1,108 +1,72 @@
 # ⚔️ MYBIE SWORD — Project Overview
 
 ## 1. Introduction
+MYBIE SWORD is the parent brand and project ecosystem built around a shared identity, vision, philosophy, and standards.
 
-MYBIE SWORD is a project ecosystem built around a shared identity, vision, and set of principles.
+**One House. Multiple Sword Coins. One Standard.**  
+**MORE MEMES. BIGGER DREAMS.**
 
-Our philosophy is represented by:
+Our ambition is greater than a single meme coin: to develop progressively into a meaningful and sustainable ecosystem, with a long-term ambition to build a network of our own if technical, security, operational, and financial readiness supports it.
 
-**One House. Multiple Sword Coins. One Standard.**
+## 2. Brand and Project Structure
+- **MYBIE SWORD:** Parent brand and ecosystem; official primary identity is the sword character emblem.
+- **$MYBIE:** First cryptocurrency project under the parent brand; its crowned penguin is a token-specific mascot.
+- **Future projects:** May be considered individually under the same parent identity and standards.
 
-MYBIE SWORD aims to establish a recognizable ecosystem where every project follows the same core standards of security, transparency, honesty, responsibility, and accountability.
-
-Our tagline: **More Memes. Bigger Dreams.**
-
-## 2. Our First Project — $MYBIE
-
-$MYBIE is the first cryptocurrency project under the MYBIE SWORD identity.
-
-The project is built on the Solana blockchain. It represents the beginning of the MYBIE SWORD ecosystem and serves as the foundation for developing our community, identity, and future project initiatives.
+The token mascot is not a replacement for the company logo.
 
 ## 3. Vision
+To go beyond meme trends and build a meaningful, real, and sustainable project ecosystem, preserving the MYBIE SWORD identity at every stage and evaluating an independent network as a long-term ambition.
 
-To build a recognizable and responsible project ecosystem that grows through transparency, community participation, and consistent standards.
+## 4. Mission
+We aim to build with purpose, preserve the sword emblem and brand culture, operate transparently and accountably, prioritize security and trust, grow according to real capability and resources, and build an ecosystem in which every initiative follows one shared standard.
 
-We believe that a project's credibility should be built through its actions, not merely through promises.
+## 5. Core Principles
+- **Strong and consistent identity** — preserve the parent brand and its visual hierarchy.
+- **Transparency and accountability** — communicate material facts and record important decisions.
+- **Security and trust** — protect project systems, assets, and community members.
+- **Sustainable development** — prioritize durable foundations over rushed expansion.
+- **Honesty and responsibility** — distinguish verified facts from plans and ambitions.
 
-## 4. Core Principles
-
-Every MYBIE SWORD initiative is expected to follow five fundamental principles:
-
-- **Security** — Prioritizing the protection of project assets, systems, and community interests.
-- **Transparency** — Communicating project information openly and clearly.
-- **Honesty** — Avoiding misleading claims and unrealistic promises.
-- **Responsibility** — Taking responsibility for project decisions and operations.
-- **Accountability** — Maintaining clear standards and being answerable for actions.
-
-These principles represent our commitments, not guarantees of financial outcomes or absolute security.
-
-## 5. Project Documentation
-
-Public documentation is intended to help the community understand the project and follow its development.
-
-The documentation structure includes:
-
-- [README.md](README.md) — Main project introduction and links.
-- [BRAND_CONCEPT.md](BRAND_CONCEPT.md) — Brand identity, philosophy, and meaning.
-- [ROADMAP.md](ROADMAP.md) — Development direction and planned stages.
-- [COMMUNITY_GUIDELINES.md](COMMUNITY_GUIDELINES.md) — Community rules and standards.
-- [COMMUNITY_TEAM_STRUCTURE.md](COMMUNITY_TEAM_STRUCTURE.md) — Planned team functions and responsibilities.
-- [MODERATOR_ROLE.md](MODERATOR_ROLE.md) — Moderator responsibilities and working guidelines.
-- [VISUAL_IDENTITY_GUIDELINES.md](VISUAL_IDENTITY_GUIDELINES.md) — Visual identity and official asset usage.
-- [GOVERNANCE_FRAMEWORK.md](GOVERNANCE_FRAMEWORK.md) — Governance principles and authority boundaries.
-- [CONTRIBUTION_GUIDELINES.md](CONTRIBUTION_GUIDELINES.md) — Contribution process and expectations.
-
-Additional technical documentation, including smart contract information, will be published when the relevant implementation details are available and verified.
+These principles are commitments, not guarantees of financial outcomes or absolute security.
 
 ## 6. Development Approach
+1. Establish identity, governance, and documentation.
+2. Strengthen the first project, $MYBIE.
+3. Improve community, security, and operational foundations.
+4. Evaluate further ecosystem projects only when ready.
+5. Research independent network feasibility as a long-term ambition.
+6. Build and launch any future network only after technical, security, resource, and Founder approval gates are met.
 
-MYBIE SWORD follows a gradual development approach.
+See [COMPANY_VISION_MISSION.md](COMPANY_VISION_MISSION.md) and [ECOSYSTEM_DEVELOPMENT_STRATEGY.md](ECOSYSTEM_DEVELOPMENT_STRATEGY.md) for detail.
 
-Our priorities are:
+## 7. Project Documentation
+- [README](README.md)
+- [Company Vision & Mission](COMPANY_VISION_MISSION.md)
+- [Brand Concept](BRAND_CONCEPT.md)
+- [Brand Design System](BRAND_DESIGN_SYSTEM.md)
+- [Visual Identity Guidelines](VISUAL_IDENTITY_GUIDELINES.md)
+- [$MYBIE Token Mascot Guidelines](TOKEN_MASCOT_GUIDELINES.md)
+- [Ecosystem Development Strategy](ECOSYSTEM_DEVELOPMENT_STRATEGY.md)
+- [Roadmap](ROADMAP.md)
+- [Whitepaper](WHITEPAPER.md)
+- [Governance Framework](GOVERNANCE_FRAMEWORK.md)
+- [Security Operations](SECURITY_OPERATIONS.md)
+- [Community Guidelines](COMMUNITY_GUIDELINES.md)
+- [Community Team Structure](COMMUNITY_TEAM_STRUCTURE.md)
+- [Moderator Role](MODERATOR_ROLE.md)
+- [Contribution Guidelines](CONTRIBUTION_GUIDELINES.md)
 
-1. Establishing a clear project identity.
-2. Building and organizing public documentation.
-3. Developing a transparent community environment.
-4. Preparing and implementing the first project, $MYBIE.
-5. Publishing relevant technical information when verified.
-6. Evaluating future development based on project progress and available resources.
+## 8. Status and Transparency
+MYBIE SWORD is a developing project ecosystem. Public statements must distinguish implemented work, work in progress, approved plans, and long-term ambitions. Documentation alone does not prove that a technical or operational capability is active.
 
-No specific future outcome or development timeline is guaranteed.
-
-## 7. Transparency and Distribution Principles
-
-MYBIE SWORD has published the following public distribution commitments for $MYBIE:
-
-- No developer token purchases at launch.
-- No private developer token reserve or allocation.
-- No team, promoter, or insider allocation.
-- No presale or hidden allocation.
-- Open and transparent token distribution.
-- Monitoring significant holder and wallet movements.
-- Prioritizing project wallet and asset security.
-
-These commitments must be reflected in the actual launch configuration and distribution process.
-
-## 8. Official Channels
-
-- **X:** [@MYBIESWORD](https://x.com/MYBIESWORD)
-- **Telegram:** [@MYBIESOL](https://t.me/MYBIESOL)
-- **GitHub documentation:** [MYBIE SWORD repository](https://github.com/MYBIESWORD/mybiesword.github.io/)
-- **Email:** mybiesword.official@gmail.com
-
-## 9. Important Notice
-
-MYBIE SWORD is a developing project ecosystem.
-
-Cryptocurrency involves substantial risks, including the possibility of losing the entire amount invested.
-
-Nothing in this document should be interpreted as a promise of profit, guaranteed returns, or financial advice. Always conduct your own research before making financial decisions.
+## 9. Risk Notice
+Cryptocurrency involves substantial risks, including the possibility of losing the entire amount invested. Nothing in this document is a promise of profit, guaranteed returns, or financial advice. Always conduct independent research before making financial decisions.
 
 ## 10. Our Commitment
+We believe credibility is built through consistent action, transparent communication, and responsibility.
 
-We believe trust is built through consistent actions, transparent communication, and responsibility.
-
-**We have nothing to hide. Transparency is not an option; it is our standard.**
+**We are not here only to follow trends. We are here to build something meaningful, with a clear vision and long-term commitment.**
 
 ⚔️ **MYBIE SWORD**  
-*More Memes. Bigger Dreams.*
+*MORE MEMES. BIGGER DREAMS.*
