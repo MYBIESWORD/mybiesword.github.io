@@ -21,11 +21,11 @@ This policy applies to the three designated MYBIE SWORD project wallets and to a
 
 The designated wallets are:
 
-| Wallet | Solflare Display Name | Primary Purpose |
-|---|---|---|
-| Launch Wallet | Launch Budget | Initial receiving wallet for Creator Fee proceeds |
-| Operational Wallet | Team Compensation | Operational expenses and approved team payments |
-| Project Wallet | Treasury Reserve | Project expansion, development, and project-specific needs |
+| Wallet Role | Primary Purpose |
+|---|---|
+| Launch Wallet | Initial receiving wallet for Creator Fee proceeds |
+| Operational Wallet | Operational expenses and approved team payments |
+| Project Wallet | Project expansion, development, and project-specific needs |
 
 Wallet addresses are maintained in the project's controlled internal records. They are not reproduced in this public policy. Publication of a wallet address requires the Founder's explicit approval.
 
@@ -56,9 +56,9 @@ The existence of three designated wallets does not establish any fixed division 
 ## 4. Authority and Transaction Approval
 
 1. The Founder retains final authority over all project treasury decisions and transfers.
-2. The Founder personally determines and carries out transfers between designated wallets when required.
-3. The Finance Department is responsible for documentation, reconciliation, verification of records, and reporting. It does not have independent authority to move, withdraw, allocate, or spend project funds.
-4. No team member or other representative may initiate or execute a project-wallet transaction without the Founder's explicit authorization.
+2. The Founder personally decides whether a transfer is necessary and personally initiates, signs, and executes every transfer between designated wallets.
+3. The Finance Department is responsible for documentation, reconciliation, verification of records, and reporting. It has no authority to initiate, sign, execute, move, withdraw, allocate, or spend project funds.
+4. No team member, department, contractor, or other representative is authorized to initiate, sign, or execute a project-wallet transaction on the Founder's behalf. All transfers are carried out manually by the Founder.
 5. No fixed transfer threshold, recurring transfer, automatic distribution, or spending allowance is created by this policy.
 6. Any proposed change to wallet roles or treasury arrangements must be referred to the Founder for a decision.
 
