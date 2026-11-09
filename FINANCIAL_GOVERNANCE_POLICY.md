@@ -24,11 +24,11 @@ This policy does not authorize any person to access wallet credentials, sign tra
 
 MYBIE SWORD uses three designated wallets with separate purposes:
 
-| Wallet | Internal Display Name | Primary Purpose |
-|---|---|---|
-| Launch Wallet | Launch Budget | Initial receiving wallet for Creator Fee proceeds. |
-| Operational Wallet | Team Compensation | Operational expenses and approved team payments. |
-| Project Wallet | Treasury Reserve | Project expansion, development, and other approved project-specific needs. |
+| Wallet Role | Primary Purpose |
+|---|---|
+| Launch Wallet | Initial receiving wallet for Creator Fee proceeds. |
+| Operational Wallet | Operational expenses and approved team payments. |
+| Project Wallet | Project expansion, development, and other approved project-specific needs. |
 
 The wallet roles are distinct and must not be treated as interchangeable.
 
