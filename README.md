@@ -33,6 +33,9 @@ Read the [Company Vision & Mission](COMPANY_VISION_MISSION.md).
 - **Token:** $MYBIE
 - **Blockchain:** Solana
 - **Ecosystem:** MYBIE SWORD
+- **Official Pump.fun launch account:** [@Mybiesword](https://pump.fun/u/Mybiesword)
+
+The Pump.fun profile above is the official public launch account for $MYBIE. Follow the profile for launch information and project updates. Always verify that the username and profile URL match before interacting.
 
 $MYBIE is the first step in developing our ecosystem and building our community. Further technical information should be published only when available and verified.
 
@@ -81,6 +84,7 @@ Roles may be combined or introduced gradually according to project needs and ava
 MYBIE SWORD has published distribution commitments for $MYBIE, including no developer purchases at launch, no private developer reserve, no team/promoter/insider allocation, and no presale or hidden allocation. These commitments must match the actual launch configuration and on-chain activity. They must not be described as independently verified without supporting evidence.
 
 ## 9. Official Channels
+- **Pump.fun Launch Account:** [@Mybiesword](https://pump.fun/u/Mybiesword)
 - **X:** [@MYBIESWORD](https://x.com/MYBIESWORD)
 - **Telegram:** [@MYBIESOL](https://t.me/MYBIESOL)
 - **Email:** mybiesword.official@gmail.com
