@@ -57,3 +57,7 @@
 
 /* Neutral status treatment: FIRST PROJECT is not a live-launch claim. */
 .status-first{color:var(--gold2)}
+
+/* Keep the official Pump.fun launch account easy to spot beside Telegram. */
+.social-links .social-pumpfun{border-color:#c9a45c;background:#c9a45c12;color:#f0d28e;font-weight:500}
+.social-links .social-pumpfun:hover{background:#c9a45c;color:#111}
