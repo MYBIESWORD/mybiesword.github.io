@@ -103,3 +103,78 @@ main,section,.section,.intro-content,.token-card,.token-main,.token-aside,.secur
   .language-toggle{max-width:86px;padding-left:6px;padding-right:16px;font-size:8px}
   .token-meta{grid-template-columns:1fr 1fr}
 }
+
+
+/* Responsive token card repair for phones and small tablets */
+@media (max-width: 900px) {
+  html, body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+  }
+  .intro-content,
+  .split-heading {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 22px;
+  }
+  .token-card {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+    padding: clamp(18px, 4vw, 28px);
+  }
+  .token-card .token-icon {
+    grid-column: 1;
+    justify-self: center;
+    width: clamp(104px, 24vw, 140px);
+    height: clamp(104px, 24vw, 140px);
+    margin: 0 auto;
+  }
+  .token-main,
+  .token-aside {
+    grid-column: 1;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+  .token-main h3,
+  .token-main p,
+  .token-main a,
+  .token-contract,
+  .token-contract code {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+  .token-contract code {
+    white-space: normal;
+    word-break: break-all;
+  }
+  .token-meta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px 12px;
+  }
+  .token-meta span {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+  .token-aside {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: 14px 0 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .big-arrow {
+    flex: 0 0 auto;
+    margin: 0;
+  }
+}
+@media (max-width: 420px) {
+  .token-card { padding: 17px 14px; }
+  .token-meta { grid-template-columns: minmax(0, 1fr); }
+}
