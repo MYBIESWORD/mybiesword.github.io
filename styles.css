@@ -178,3 +178,80 @@ main,section,.section,.intro-content,.token-card,.token-main,.token-aside,.secur
   .token-card { padding: 17px 14px; }
   .token-meta { grid-template-columns: minmax(0, 1fr); }
 }
+
+
+/* Force the first-project card into a clean stacked layout on narrow screens,
+   including browsers using a wider mobile layout viewport. */
+@media screen and (max-width: 1100px) {
+  .intro .token-card {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 22px clamp(16px, 4vw, 28px) !important;
+    gap: 18px !important;
+  }
+  .intro .token-card > .token-icon {
+    order: 0;
+    display: block;
+    width: clamp(112px, 26vw, 150px) !important;
+    height: clamp(112px, 26vw, 150px) !important;
+    max-width: 100%;
+    margin: 0 auto !important;
+    align-self: center;
+    transform: none !important;
+  }
+  .intro .token-card > .token-main {
+    order: 1;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+  .intro .token-card > .token-aside {
+    order: 2;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: 14px 0 0;
+  }
+  .intro .token-card .token-main > * {
+    max-width: 100%;
+    min-width: 0;
+  }
+  .intro .token-card .token-meta {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px 12px;
+    width: 100%;
+  }
+  .intro .token-card .token-meta > span {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+  .intro .token-card .token-contract,
+  .intro .token-card .token-contract code,
+  .intro .token-card .token-main a {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+  .intro .token-card .token-contract code {
+    display: inline-block;
+    white-space: normal;
+    word-break: break-all;
+    line-height: 1.8;
+  }
+}
+@media screen and (max-width: 420px) {
+  .intro .token-card .token-meta {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
