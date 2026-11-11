@@ -33,6 +33,9 @@ Read the [Company Vision & Mission](COMPANY_VISION_MISSION.md).
 - **Token:** $MYBIE
 - **Blockchain:** Solana
 - **Ecosystem:** MYBIE SWORD
+- **Contract address:** `6zDm1D7P3nMk6FGhGaWt4xekGW2xJnC7dcSMc2ZEpump`
+- **Solana explorer:** [View $MYBIE on Solscan](https://solscan.io/token/6zDm1D7P3nMk6FGhGaWt4xekGW2xJnC7dcSMc2ZEpump)
+- **Token page:** [View $MYBIE on Pump.fun](https://pump.fun/coin/6zDm1D7P3nMk6FGhGaWt4xekGW2xJnC7dcSMc2ZEpump)
 - **Official Pump.fun launch account:** [@Mybiesword](https://pump.fun/u/Mybiesword)
 
 The Pump.fun profile above is the official public launch account for $MYBIE. Follow the profile for launch information and project updates. Always verify that the username and profile URL match before interacting.
